@@ -1,0 +1,1290 @@
+export const foodData = [
+    {
+        "vendors": [
+          {
+            "_id": "65fa8fd88f50bc1bcd9ee3f9",
+            "username": "Andhra",
+            "email": "andhra@suby.com",
+            "password": "$2a$10$0KIw6BoFgNFLcwJeh0/eXucxotr8REvbE9hOnB9OctgIHb115ejSe",
+            "firm": [
+              {
+                "_id": "65fa90298f50bc1bcd9ee3ff",
+                "firmName": "Andhra Meals",
+                "area": "Begumpet",
+                "category": [
+                  "veg",
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "10%",
+                "image": "1710919721015.jpg",
+                "vendor": [
+                  "65fa8fd88f50bc1bcd9ee3f9"
+                ],
+                "products": [
+                  "65fa905b8f50bc1bcd9ee404",
+                  "65fa907b8f50bc1bcd9ee409",
+                  "65fa90928f50bc1bcd9ee40d",
+                  "65fa90e88f50bc1bcd9ee411",
+                  "65fa91038f50bc1bcd9ee415",
+                  "65fa91178f50bc1bcd9ee419",
+                  "6661eb68c0710bca34e9d7d0"
+                ],
+                "__v": 7
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fa944c8f50bc1bcd9ee42d",
+            "username": "Babai",
+            "email": "babai@suby.com",
+            "password": "$2a$10$SqLRkgBoHtrZgA6lAFTqreUF5OUrwaQQb9UI2ZSs6mecNna6Q9J3y",
+            "firm": [
+              {
+                "_id": "65fa95048f50bc1bcd9ee433",
+                "firmName": "Babi Hotel",
+                "area": "Banjara hills",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710920964928.jpg",
+                "vendor": [
+                  "65fa944c8f50bc1bcd9ee42d"
+                ],
+                "products": [
+                  "65fa95318f50bc1bcd9ee438",
+                  "65fa95478f50bc1bcd9ee43d",
+                  "65fa955e8f50bc1bcd9ee441",
+                  "65fa95768f50bc1bcd9ee445",
+                  "65fa95908f50bc1bcd9ee449",
+                  "65fa95a38f50bc1bcd9ee44d",
+                  "65fa95b38f50bc1bcd9ee451",
+                  "65fa95c38f50bc1bcd9ee455"
+                ],
+                "__v": 8
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fa963a8f50bc1bcd9ee45d",
+            "username": "Bheema",
+            "email": "bheema@suby.com",
+            "password": "$2a$10$a9G5wcUuqdgelBIYmVraP.QcQpMaBEmmRMjQLnh6S/3tJJvEIqsy6",
+            "firm": [
+              {
+                "_id": "65fa969b8f50bc1bcd9ee463",
+                "firmName": "Bheema's Restaurant",
+                "area": "Panjagutta",
+                "category": [
+                  "non-veg",
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710921371126.jpg",
+                "vendor": [
+                  "65fa963a8f50bc1bcd9ee45d"
+                ],
+                "products": [
+                  "65fa96d88f50bc1bcd9ee468",
+                  "65fa96f48f50bc1bcd9ee46d",
+                  "65fa97428f50bc1bcd9ee475",
+                  "65fa97558f50bc1bcd9ee479",
+                  "65fa97648f50bc1bcd9ee47d",
+                  "65fa97748f50bc1bcd9ee481",
+                  "65fa97878f50bc1bcd9ee485",
+                  "65fa979f8f50bc1bcd9ee489",
+                  "65fa97b18f50bc1bcd9ee48d",
+                  "65fa97db8f50bc1bcd9ee491"
+                ],
+                "__v": 10
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fa98278f50bc1bcd9ee499",
+            "username": "Bahar",
+            "email": "bahar@suby.com",
+            "password": "$2a$10$oUYp9yBhXWWFQXgXlx7zGOOrmrsKeBhts1I5hY8vVVbhMcNXgbf9e",
+            "firm": [
+              {
+                "_id": "65fa98a28f50bc1bcd9ee49f",
+                "firmName": "Bahar Restaurant",
+                "area": "Abids",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "north-indian",
+                  "chinese",
+                  "south-indian"
+                ],
+                "offer": "Flat ₹40 off on above ₹199",
+                "image": "1710921890580.jpg",
+                "vendor": [
+                  "65fa98278f50bc1bcd9ee499"
+                ],
+                "products": [
+                  "65fa98f78f50bc1bcd9ee4a4",
+                  "65fa990f8f50bc1bcd9ee4a9",
+                  "65fa99248f50bc1bcd9ee4ad",
+                  "65fa99388f50bc1bcd9ee4b1",
+                  "65fa99578f50bc1bcd9ee4b5",
+                  "65fa99868f50bc1bcd9ee4bd",
+                  "65fa999a8f50bc1bcd9ee4c1",
+                  "65fa99b18f50bc1bcd9ee4c5",
+                  "65fa99c68f50bc1bcd9ee4c9"
+                ],
+                "__v": 9
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fa9ba08f50bc1bcd9ee4dc",
+            "username": "Bawarchi",
+            "email": "bawarchi@suby.com",
+            "password": "$2a$10$e6CMVEErikwwfPkdNCre2.Mv28VP/DZWZRTLXTM187cY/zlDWy2oK",
+            "firm": [
+              {
+                "_id": "65fa9c0b8f50bc1bcd9ee4e2",
+                "firmName": "Bawarchi Restaurant",
+                "area": "Koti",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "north-indian",
+                  "south-indian",
+                  "chinese"
+                ],
+                "offer": "",
+                "image": "1710922763642.jpg",
+                "vendor": [
+                  "65fa9ba08f50bc1bcd9ee4dc"
+                ],
+                "products": [
+                  "65fa9c428f50bc1bcd9ee4e7",
+                  "65fa9c548f50bc1bcd9ee4ec",
+                  "65fa9c688f50bc1bcd9ee4f0",
+                  "65fa9c818f50bc1bcd9ee4f4",
+                  "65fa9c948f50bc1bcd9ee4f8"
+                ],
+                "__v": 5
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fa9e2d8f50bc1bcd9ee50c",
+            "username": "Delight",
+            "email": "delight@suby.com",
+            "password": "$2a$10$BOtKfaXcNzNwW0lo2WBR5uiOuovoh5fbfrYMpK5jGxpvLZW7jxyIy",
+            "firm": [
+              {
+                "_id": "65fa9e6f8f50bc1bcd9ee512",
+                "firmName": "Delight Restaurant",
+                "area": "Jubilee Hills",
+                "category": [
+                  "non-veg",
+                  "veg"
+                ],
+                "region": [
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710923375138.avif",
+                "vendor": [
+                  "65fa9e2d8f50bc1bcd9ee50c"
+                ],
+                "products": [
+                  "65fa9e8d8f50bc1bcd9ee517",
+                  "65fa9ea78f50bc1bcd9ee51c",
+                  "65fa9efe8f50bc1bcd9ee526",
+                  "65fa9f148f50bc1bcd9ee52a",
+                  "65fa9f3e8f50bc1bcd9ee52e",
+                  "65fa9f558f50bc1bcd9ee532",
+                  "65fa9f698f50bc1bcd9ee536",
+                  "65fa9f7d8f50bc1bcd9ee53a",
+                  "65fa9f978f50bc1bcd9ee53e"
+                ],
+                "__v": 9
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faa0088f50bc1bcd9ee546",
+            "username": "Blue",
+            "email": "blue@suby.com",
+            "password": "$2a$10$a053W19ZU8xfkvv.McRD9.F8VtgCgWXjyuu.aBVswvzf3FgWqMm26",
+            "firm": [
+              {
+                "_id": "65faa09f8f50bc1bcd9ee54c",
+                "firmName": "Blue Fox Restuarant",
+                "area": "Ameerpet",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "north-indian",
+                  "south-indian"
+                ],
+                "offer": "Flat ₹50 off on above ₹299",
+                "image": "1710923935060.avif",
+                "vendor": [
+                  "65faa0088f50bc1bcd9ee546"
+                ],
+                "products": [
+                  "65faa0bf8f50bc1bcd9ee551",
+                  "65faa0d28f50bc1bcd9ee556",
+                  "65faa0e88f50bc1bcd9ee55a",
+                  "65faa0fd8f50bc1bcd9ee55e",
+                  "65faa1108f50bc1bcd9ee562",
+                  "65faa1218f50bc1bcd9ee566",
+                  "65faa1338f50bc1bcd9ee56a",
+                  "65faa1478f50bc1bcd9ee56e",
+                  "65faa1578f50bc1bcd9ee572"
+                ],
+                "__v": 9
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faa1b18f50bc1bcd9ee57a",
+            "username": "Delhi",
+            "email": "delhi@suby.com",
+            "password": "$2a$10$xylYepvAcr0HtH3OkBkIQe4x9EPQOHJJGstUi9gnWhlUWa7Mz3KHq",
+            "firm": [
+              {
+                "_id": "65faa2158f50bc1bcd9ee580",
+                "firmName": "Delhi Homes",
+                "area": "Khairatabad",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710924309305.avif",
+                "vendor": [
+                  "65faa1b18f50bc1bcd9ee57a"
+                ],
+                "products": [
+                  "65faa2748f50bc1bcd9ee588",
+                  "65faa3218f50bc1bcd9ee596",
+                  "65faa34a8f50bc1bcd9ee59a",
+                  "65faa3688f50bc1bcd9ee59e",
+                  "65faa37b8f50bc1bcd9ee5a2",
+                  "65faa38c8f50bc1bcd9ee5a6",
+                  "65faa39c8f50bc1bcd9ee5aa",
+                  "65faa3ac8f50bc1bcd9ee5ae",
+                  "65faa3bf8f50bc1bcd9ee5b2"
+                ],
+                "__v": 9
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faa4d38f50bc1bcd9ee5c0",
+            "username": "Lunch",
+            "email": "lunch@suby.com",
+            "password": "$2a$10$O2KV73i9RzTH9gH3NdRZRekm.xLkVc2Ijb6oM.71S5SXQA/HqvShq",
+            "firm": [
+              {
+                "_id": "65faa52a8f50bc1bcd9ee5c6",
+                "firmName": "Lunch Box",
+                "area": "Madhapur",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian",
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710925098445.avif",
+                "vendor": [
+                  "65faa4d38f50bc1bcd9ee5c0"
+                ],
+                "products": [
+                  "65faa5488f50bc1bcd9ee5cb",
+                  "65faa55e8f50bc1bcd9ee5d0",
+                  "65faa5708f50bc1bcd9ee5d4",
+                  "65faa5848f50bc1bcd9ee5d8",
+                  "65faa5988f50bc1bcd9ee5dc",
+                  "65faa5ab8f50bc1bcd9ee5e0",
+                  "65faa5c88f50bc1bcd9ee5e4",
+                  "65faa5e18f50bc1bcd9ee5e8"
+                ],
+                "__v": 8
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fade6d8f50bc1bcd9ee5f0",
+            "username": "chutney",
+            "email": "chutney@suby.com",
+            "password": "$2a$10$O/aU/mk/Pf4o6qCPKQkUoOuE1xYDQPEkSwAFbW8vqc6/ypQKjSqPy",
+            "firm": [
+              {
+                "_id": "65faded78f50bc1bcd9ee5f6",
+                "firmName": "Chutney's",
+                "area": "Panjagutta",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian",
+                  "north-indian"
+                ],
+                "offer": "Flat ₹40 off on above ₹299",
+                "image": "1710939863166.avif",
+                "vendor": [
+                  "65fade6d8f50bc1bcd9ee5f0"
+                ],
+                "products": [
+                  "65fadef28f50bc1bcd9ee5fb",
+                  "65fadf038f50bc1bcd9ee600",
+                  "65fadf118f50bc1bcd9ee604",
+                  "65fadf1f8f50bc1bcd9ee608",
+                  "65fadf318f50bc1bcd9ee60c",
+                  "65fadf418f50bc1bcd9ee610"
+                ],
+                "__v": 6
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fadf8f8f50bc1bcd9ee618",
+            "username": "Darshini",
+            "email": "darshini@suby.com",
+            "password": "$2a$10$J5uxHc4aCyaioOFTVZbCsO4uykcxyuPcP/TvD3pj2VcBlc9ICUed2",
+            "firm": [
+              {
+                "_id": "65fadfdf8f50bc1bcd9ee61e",
+                "firmName": "Sai Darshini Tiffins",
+                "area": "Sanath nagar",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "20% off on above ₹199",
+                "image": "1710940127378.avif",
+                "vendor": [
+                  "65fadf8f8f50bc1bcd9ee618"
+                ],
+                "products": [
+                  "65fadff28f50bc1bcd9ee623",
+                  "65fae0038f50bc1bcd9ee628",
+                  "65fae0148f50bc1bcd9ee62c",
+                  "65fae0238f50bc1bcd9ee630",
+                  "65fae03a8f50bc1bcd9ee634"
+                ],
+                "__v": 5
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fae05b8f50bc1bcd9ee63c",
+            "username": "Kamath",
+            "email": "kamath@suby.com",
+            "password": "$2a$10$QG7frrwIYpVkhaeHAUVm/eiu.1qZ5qez9FhY0V4HRPqTn.2tLWT0G",
+            "firm": [
+              {
+                "_id": "65fae0c18f50bc1bcd9ee642",
+                "firmName": "Kamath Hotel",
+                "area": "Ameerpet",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "Flat ₹40 off ",
+                "image": "1710940353865.avif",
+                "vendor": [
+                  "65fae05b8f50bc1bcd9ee63c"
+                ],
+                "products": [
+                  "65fae0d58f50bc1bcd9ee647",
+                  "65fae0f58f50bc1bcd9ee64c",
+                  "65fae1068f50bc1bcd9ee650",
+                  "65fae1168f50bc1bcd9ee654",
+                  "65fae1258f50bc1bcd9ee658"
+                ],
+                "__v": 5
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fae1458f50bc1bcd9ee660",
+            "username": "Mudda",
+            "email": "mudda@suby.com",
+            "password": "$2a$10$Y53Kor2O3BMBN051/.wduOBx4tdywL922XlMZD4GTLga9vd0ZhWEC",
+            "firm": [
+              {
+                "_id": "65fae1818f50bc1bcd9ee666",
+                "firmName": "Muddapappu Avakai",
+                "area": "Nagole",
+                "category": [
+                  "veg",
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710940545286.avif",
+                "vendor": [
+                  "65fae1458f50bc1bcd9ee660"
+                ],
+                "products": [
+                  "65fae1968f50bc1bcd9ee66b",
+                  "65fae1a68f50bc1bcd9ee670",
+                  "65fae1b88f50bc1bcd9ee674",
+                  "65fae1c98f50bc1bcd9ee678",
+                  "65fae1d88f50bc1bcd9ee67c",
+                  "65fae1ea8f50bc1bcd9ee680"
+                ],
+                "__v": 6
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faedd7c455bc335c83d540",
+            "username": "Royal",
+            "email": "royal@suby.com",
+            "password": "$2a$10$yvR2DAvESS4YFmvkr3vnnux6PyX3tVRTZBzMKlO3OAY4pERYDpKBK",
+            "firm": [
+              {
+                "_id": "65faee1dc455bc335c83d546",
+                "firmName": "Royal Tiffins",
+                "area": "Srinagar",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "20% off on above ₹199",
+                "image": "1710943773167.avif",
+                "vendor": [
+                  "65faedd7c455bc335c83d540"
+                ],
+                "products": [
+                  "65faee38c455bc335c83d54b",
+                  "65faee49c455bc335c83d550",
+                  "65faee58c455bc335c83d554",
+                  "65faee79c455bc335c83d558",
+                  "65faee92c455bc335c83d55c",
+                  "65faeea5c455bc335c83d560",
+                  "65faeeb2c455bc335c83d564"
+                ],
+                "__v": 7
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faef12c455bc335c83d56c",
+            "username": "Balaji",
+            "email": "balaji@suby.com",
+            "password": "$2a$10$MN.V9SzlaoJMSMI10pYWyOyJr7laGFVcBOFDwU7F2E96JMohZCSVG",
+            "firm": [
+              {
+                "_id": "65faef64c455bc335c83d572",
+                "firmName": "Balaji Santosh Family Dhaba",
+                "area": "Highway",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710944100640.avif",
+                "vendor": [
+                  "65faef12c455bc335c83d56c"
+                ],
+                "products": [
+                  "65faef7dc455bc335c83d577",
+                  "65faef8bc455bc335c83d57c",
+                  "65faef9bc455bc335c83d580",
+                  "65faefadc455bc335c83d584",
+                  "65faefbbc455bc335c83d588",
+                  "65faefcac455bc335c83d58c",
+                  "65faefdfc455bc335c83d590",
+                  "65faeff4c455bc335c83d594"
+                ],
+                "__v": 8
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faf018c455bc335c83d59c",
+            "username": "Kailash",
+            "email": "kailash@suby.com",
+            "password": "$2a$10$DsqxpHj8bJEGQVTMbJShZ.gpBI9yQzYXytbPrK8E8ELVkF51.0LTS",
+            "firm": [
+              {
+                "_id": "65faf052c455bc335c83d5a2",
+                "firmName": "Kailash Dhaba",
+                "area": "Sanath nagar",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹299",
+                "image": "1710944338540.avif",
+                "vendor": [
+                  "65faf018c455bc335c83d59c"
+                ],
+                "products": [
+                  "65faf064c455bc335c83d5a7",
+                  "65faf077c455bc335c83d5ac",
+                  "65faf08bc455bc335c83d5b0",
+                  "65faf0b0c455bc335c83d5b4",
+                  "65faf0bec455bc335c83d5b8",
+                  "65faf0d1c455bc335c83d5bc"
+                ],
+                "__v": 6
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65faf106c455bc335c83d5c4",
+            "username": "Simrat",
+            "email": "simrat@suby.com",
+            "password": "$2a$10$K3gMvt1rQlp80jm6NxiUJ..7IXYBBiMk8O/Qp2ncsp9uxeuoC/HPe",
+            "firm": [
+              {
+                "_id": "65faf14ac455bc335c83d5ca",
+                "firmName": "Simrat Dhaba",
+                "area": "Banjara hills",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "north-indian"
+                ],
+                "offer": "20% off on above ₹199",
+                "image": "1710944586146.avif",
+                "vendor": [
+                  "65faf106c455bc335c83d5c4"
+                ],
+                "products": [
+                  "65faf160c455bc335c83d5cf",
+                  "65faf171c455bc335c83d5d4",
+                  "65faf185c455bc335c83d5d8",
+                  "65faf195c455bc335c83d5dc",
+                  "65faf1a9c455bc335c83d5e0",
+                  "65faf1bbc455bc335c83d5e4"
+                ],
+                "__v": 6
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fbb986c7c552a9f234296d",
+            "username": "Madhu",
+            "email": "madhu@suby.com",
+            "password": "$2a$10$6q/J0y3fAMLTHFDRN3XwZO.NaLZpKv8kMq5F2myOnhHPahmZ/lCoK",
+            "firm": [
+              {
+                "_id": "65fbb9dcc7c552a9f2342973",
+                "firmName": "Madhu Tiffins",
+                "area": "Moosapet",
+                "category": [
+                  "veg",
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian",
+                  "bakery"
+                ],
+                "offer": "10% flat off on above ₹199",
+                "image": "1710995932457.avif",
+                "vendor": [
+                  "65fbb986c7c552a9f234296d"
+                ],
+                "products": [
+                  "65fbba0dc7c552a9f2342978"
+                ],
+                "__v": 1
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "65fec75c49713d03c48ce348",
+            "username": "Abiruchi",
+            "email": "abhiruchi@suby.com",
+            "password": "$2a$10$6GVWt47E1gUUGRw1QJd/nuPNavFSYfBfyKVLJXdWrR43WqZ0OOBf.",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "65fef2d5749938183ed86afb",
+            "username": "Kamal",
+            "email": "kamal@gmail.com",
+            "password": "$2a$10$7OMT3uIlNDiGbEtv1oTS8.Hen/iEwwJ1UCHE9KqAGfhI6He0kgfUC",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6614122194c89f71b4e692e8",
+            "username": "Happy",
+            "email": "happy@gmail.com",
+            "password": "$2a$10$/548k0U/TEVULMKTFmYD5OgX8okX.V8TkRItLj2q6O9/euHi6NJKO",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "66142cad8b663afbee686ad7",
+            "username": "lp",
+            "email": "soetemp2300@gmail.com",
+            "password": "$2a$10$w63tSC.NOyxJ8ZTtkaiomuOJPAaZVxy54nGnmP7ikFTWBvkL.irvC",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66161fdf99cef3cdf8bfba27",
+            "username": "Hello",
+            "email": "Hello@gmail.com",
+            "password": "$2a$10$/Di7YKKJYz2xMGHQFh5qEO2UdLqOFbUzVMTqGNuIom/25KmmGlr9K",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6616687f4a1f5983bc8745ee",
+            "username": "srinivasulu",
+            "email": "challasrinu.mca@gmail.com",
+            "password": "$2a$10$QiZScslAxM666m7sUitlUOG//TTB2RuBeqtSFD1YHlzXeBvmQOE1K",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "661af94a2aca8e9f32f0a406",
+            "username": "subramanyam",
+            "email": "subburaji9381@gmail.com",
+            "password": "$2a$10$it9gd5I8nTtQ4hSWwOyIsO7NiwdIrYq2WjZQIaAW1tXJHmabKJZgy",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "661b844427d25bef382599d1",
+            "username": "Bal",
+            "email": "balmukundmishra352@gmail.com",
+            "password": "$2a$10$tWorMYy4QDH3ma.YLKh/gefuw.tnpftemcwboX1NvP5b4qIxFRWhW",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "662041c8b70dc505ccd7ab64",
+            "username": "raji",
+            "email": "subbukasturi56@gmail.com",
+            "password": "$2a$10$K3Wn5R/NxBZnmvUi0wyyDOwicDyT.uTVfr9.Qru7DfxRFNJo4pYjK",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "66204c15d422a362a9a4a2d2",
+            "username": "DoubleClick",
+            "email": "doubleclick@gmail.com",
+            "password": "$2a$10$OlaN9A4e42gEwi2zGzUmue0SVmJAngNTW/479WNCcJ29cnb5ayY.6",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66204d03d422a362a9a4a2db",
+            "username": "doubleclick",
+            "email": "doubleclick1@gmail.com",
+            "password": "$2a$10$qTP0FV5QcVMYVFxIzHHtH.onajjPW4HGsNM2zV5zIFSpNaxatUXKC",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66219165c34baa4f4de96028",
+            "username": "Abc12",
+            "email": "Abc@gmail.com",
+            "password": "$2a$10$0CbtHLebBB6DeS28TAG9qeALzBy1oN6T8jwo8XehDg6SCQn./vnE.",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "662204186e3f241329314384",
+            "username": "Hi",
+            "email": "Hi@gmail.com",
+            "password": "$2a$10$b28I3GaB4Q0Zgy1F76kWDOsiL3CgyUPsU.H00aMuvDVp4MI8Haz0S",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6623f92ff758beb0150cab61",
+            "username": "Head",
+            "email": "ab@gmail.com",
+            "password": "$2a$10$RAPHfVkg2DyHNt8f9t8PmOx0QLHD6cgwrNWAEdPiibDfpiSukKtyK",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66273ef45f9ebb5e397b8b9e",
+            "username": "venu",
+            "email": "venu@gmail.com",
+            "password": "$2a$10$NSdd7OLsRKi0rUTEQ1uaMetQ/bh/ftMep.JLeuu7Y6bDtIs8IMEZi",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66289e9fba7e83386c5e635e",
+            "username": "hello",
+            "email": "hello@gmail.com",
+            "password": "$2a$10$vM25aFj0txxxzMrg3472lul6XtgC.hQIxTwnHmFtRc2ktxP6E6iBe",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "662d0526f5a362aaabd0f847",
+            "username": "chand",
+            "email": "darlingchand24@gmail.com",
+            "password": "$2a$10$TNkQQodBWWfautUocaktDuYJAJPItDfF0acY6jHa41eIR8pYU8rwG",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "662f6209dffca8663bfbff55",
+            "username": "bro",
+            "email": "bro@gmail.com",
+            "password": "$2a$10$RHZ9RsdAIhw.mzlxC9kssuTohWEaaGdkaogKMN/xo/GUA0MmjI0FG",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6631101634a9cf85d386afb0",
+            "username": "sai",
+            "email": "sai@gmail.com",
+            "password": "$2a$10$1Puxt8GNhG08azFFMkpOQOvayWH1qgQ1HuiWNwE4ezHX8YRRikk8u",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66321a3a4d9373ed5f511018",
+            "username": "1233",
+            "email": "ttyy@gmail.com",
+            "password": "$2a$10$obpqMmzhmCaee9ibRB9y2.mINNOM5lPdgt5/zPNxuOfquQQFV3ioy",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6632248c5ea24899c864f435",
+            "username": "sathwik",
+            "email": "sathwik7036@gmail.com",
+            "password": "$2a$10$lA6p9VCy9aRBYUj004DTye.A7tR0QYZHgqgqNNSw7MMVgcagrAlDG",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6632255a5ea24899c864f444",
+            "username": "sravan",
+            "email": "sravan@gmail.com",
+            "password": "$2a$10$lZ2uOGEr5q.W79Z1W6vix.WCgmp2KICyNupwKq685L1.K1DmADhG.",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "66332f5cd00efd1bdf5e0053",
+            "username": "krishna",
+            "email": "krishnateja1054@gmail.com",
+            "password": "$2a$10$U5ZEeJHMqEMN56bAmssFAORrKCNaaB3dKZLBKpHXKIEdptTST/mxO",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6635071e6c0df40a44b4afc5",
+            "username": "sathwik",
+            "email": "xyz@gmail.com",
+            "password": "$2a$10$r5CindDjkGmInGfxXZQD3eBhrLPrUHFDFFPiGYPTmpttkzqyrbuyK",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6635c4ab9f7fe8410aa4abdd",
+            "username": "sathvik",
+            "email": "sathwik000@gmail.com",
+            "password": "$2a$10$3xe5q8oBYSfiPqSFeg2W..bdW3mpX1w5qhbv9sOBAi/NDOBDlGCHG",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6635c5f99f7fe8410aa4abe8",
+            "username": "harshith",
+            "email": "harshith@gmail.com",
+            "password": "$2a$10$Zvm1.5DKdjdLb9A/qGcqdOMhQFc.G6eOwRPZ5o30MEvaPeGVQ5NJq",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6637cc9e4023e56eaf455632",
+            "username": "naresh",
+            "email": "naresh@gmail.com",
+            "password": "$2a$10$RmpFhNzZrh.R6b/qD4PrMeddRT8x8IpXJ6S9M4k2yylT5r52K8TmC",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6637cd434023e56eaf455635",
+            "username": "akshaya",
+            "email": "akshaya@gmail.com",
+            "password": "$2a$10$YCD62kFI8IEE1rRLW7QsJe7HBrYLl80EFKVsawy8WPip2D0OBh0yO",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6637ce384023e56eaf455650",
+            "username": "Pista House",
+            "email": "pista@gmail.com",
+            "password": "$2a$10$4d6jIBwQwmBR/hxVnZcc3.kF1ZFM0Kk5kxm258L3VeO7iqZ/EGA.6",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6637d1cb4023e56eaf45566a",
+            "username": "bawarchi",
+            "email": "bawarchi@gmail.com",
+            "password": "$2a$10$jmZgMZPgqIRxwQH3n.AzYOPc0gGMCdSD4fuPp.rI8oAiqhjeba81a",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6638526fb58c498242e46fd0",
+            "username": "tjdrinfjjd",
+            "email": "hsjfwyfbjdg@gmail.com",
+            "password": "$2a$10$r8nI7yvK6RsUXGpMxpxwyufLvFYDoKjO3g9Zsbp0nZG07ofImwZ56",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "663aae3fe30b38d1ecfe8777",
+            "username": "nagaraju",
+            "email": "nagaraju@gmail.com",
+            "password": "$2a$10$PDHZv89o9WDM6HAILWzBKOnM5WHl4cfHVmfcA6B9ptRyvnuPwglpm",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "663b1dc5fb738b5603107c0b",
+            "username": "Vijay1",
+            "email": "Vijay1@gmail.com",
+            "password": "$2a$10$FSSMyPKZVWnwqIsn8duECuldsAGvy1ARNIv5zxHJg6uNGuQ2MeD9e",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "663cf4f39f5ffa3ad3980fbc",
+            "username": "ravikiran",
+            "email": "ravikiran@gmail.com",
+            "password": "$2a$10$qrO/mulShuf9IvxCTDtSTOZU5IH/i7kp.ENnmTcXLWlsAjM1OFC8u",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664169c61c95a021a7271cb1",
+            "username": "gui",
+            "email": "yuu",
+            "password": "$2a$10$V1/9gUnAsLi3phexSWW7ge/aV44juelKTpJ/E1op.wg6xQRxwTFEe",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "664227b1f5df825558815f30",
+            "username": "aarem",
+            "email": "aarem@gmail.com",
+            "password": "$2a$10$H8LeLOSZHETfC6MPMss/AOS09xSAcqSbZnLELsdRBOkOUMTHS.Dru",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664300d483021c84d6817d00",
+            "username": "aaa",
+            "email": "aaa@gmail.com",
+            "password": "$2a$10$O1QyLn3EMkVfybS7DspR/ON.yI8Tx8TPHFJypp8IzXyW.GZIP6bb2",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664340dd99574bd2a3cf55c7",
+            "username": "venugopal",
+            "email": "venuiti12@gmail.com",
+            "password": "$2a$10$xKzAm416pwIIhLxgEKj1R.Io9Op2HINU5KLGOyj6GEFTRUDhqrK9G",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6643410c99574bd2a3cf55cc",
+            "username": "venu",
+            "email": "venuiti123@gmail.com",
+            "password": "$2a$10$WqTfVNogOyr4q5Emse.PG.RTNqBGAM.XZpZfvgpqiK6W4fZ8XzCiy",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6643c883ef3406ee7e538bc0",
+            "username": "tharun",
+            "email": "tharun@gmail.com",
+            "password": "$2a$10$8Q9pUdh4UyhWSyPe1QsDv.Qo1N0hsJDEnB/331DFX/JeYOFELtea2",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6645c25a2ee70ceaefe0aa2e",
+            "username": "anusha",
+            "email": "anusha@123",
+            "password": "$2a$10$JFIGc6VXX1fk7ZUAQH/Ci.FSXI513abqTQ4WdjDNdvYXmG8.GALnm",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6645f5a229c722fc81676a5c",
+            "username": "naveen",
+            "email": "naveen@gmail.com",
+            "password": "$2a$10$T6RwkjpOErW2g5dBHlYBCu6IggkbKwjwKt.KfHSUj8jgL.fhwcaTa",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66486de4aab66293c2d44dfd",
+            "username": "npk1",
+            "email": "npk1@gmail.com",
+            "password": "$2a$10$g9fL3euDY1qObqd/wLE4pu4Hqojhk5QDvz9O4/HmQxZISpPOxlIVu",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6648b3c14eabd7d658083648",
+            "username": "Meghana",
+            "email": "rajanalameghana123@gmail.com",
+            "password": "$2a$10$l5GihC3e0vmmiEGHuvIyjOXc9RKIE16ZivpaYODGy3p6/lf6WkumS",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "66498eeeaaaf46839ae7339b",
+            "username": "sam",
+            "email": "sam@gmail.com",
+            "password": "$2a$10$ZzdHpSMnvLRPGwSL6d3qn.gYCRlFcW4alIaG2YqZqIq9gnEkNCDRq",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664a11424b8af7fab441da36",
+            "username": "eswar",
+            "email": "eswar@gmail.com",
+            "password": "$2a$10$A3lOGQfxPCmASa95gIRjYuxEt3IGqytVoxm6obED/pzlSUErAMIey",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664a23d754a7cef685110c18",
+            "username": "srinivas",
+            "email": "srinivas@gmail.com",
+            "password": "$2a$10$BDFlb2IkN0YOOv1a.ytDPuTiU4oHoZ8WHKpGyG/qdlwMqkxpkOs2u",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "664a245b54a7cef685110c1f",
+            "username": "reddy",
+            "email": "reddy@gmail.com",
+            "password": "$2a$10$9IALMtII40TrUf1RJ8oju.ccLRKd2Udu6YunznLPTCmzcpSzTeK92",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664c9b6545ad37551084bfc0",
+            "username": "shivani",
+            "email": "shivani@gmail.com",
+            "password": "$2a$10$3lNJzyqXB6WUX6h6TVGuOOEeNjtwY2VcPhchnaZK/BRrpiykvXWyC",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "664ebf1b9e68364b838aba59",
+            "username": "saikiran",
+            "email": "saikirankollimalla@gmail.com",
+            "password": "$2a$10$p0UEGI3q58RkSxp4vwGIreSUaSitTHMDH6I/mCKXnybE08zQaZJYW",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6651f1817830f6d165907c4d",
+            "username": "ramesh_kohli16",
+            "email": "rameshbradmandgl@gmail.com",
+            "password": "$2a$10$optIzK1iezp6pTGUb9byE.zV6ja5TGsStpAXk7d38lr3ypXqjf2ZG",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6652ea730c7bf0442824460f",
+            "username": "Dharani",
+            "email": "dharanivelmurugan18@gmail.com",
+            "password": "$2a$10$T1eic.zg.SQ89mwqbxrYmuZ8KE61A1ETSrDCsGu0nXq0H5ewPxZNm",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6652f4160c7bf0442824465d",
+            "username": "my",
+            "email": "my@gmail.com",
+            "password": "$2a$10$o3XLYxao5fopISP/Log.CeUKWyrOKevvsGkDmpNWgSdKHPjZcoZfe",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "6652fe068820a74be589f8b8",
+            "username": "uma",
+            "email": "uma@gmail.com",
+            "password": "$2a$10$6wu8csTtfCeUQgbemcCDkOY0teJWanGS.XHET4xfBRPYV5fOn3nWe",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66530a34000a1382f8010f6f",
+            "username": "anu",
+            "email": "anu@gmail.com",
+            "password": "$2a$10$Nf8bkPbCOW2CbkdJZy0eS.NZQYef4CEgVxsQq7UVbIvVHHT2llfOG",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66530a80000a1382f8010f73",
+            "username": "divya",
+            "email": "divya@gmail.com",
+            "password": "$2a$10$jpFodaMMVxFelalLuLUV8ewX71f.0j3DtwjNxiyrU3YG6w6mdNxVu",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6654c4c2de09adcd55fc40a7",
+            "username": "Dhhn",
+            "email": "Tyhh@gmail.com",
+            "password": "$2a$10$02ESpZL63Si2rgP4FsB3aulGf/hM1O86gO6rclxBvFGs2.eqRwRWi",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "6658b61aa4b4f40d7510a4df",
+            "username": "Sahithya",
+            "email": "Sahithyareddy2303@gmail.com",
+            "password": "$2a$10$g1jriosVB0ejLCRy28fUJuJjTc7yJOCrzUPbwLx.C84GwSrLueJ..",
+            "firm": [],
+            "__v": 1
+          },
+          {
+            "_id": "665d7e9638ec949f18530287",
+            "username": "user",
+            "email": "user@gmail.com",
+            "password": "$2a$10$MLOJM6clgo1dUQV/CexLVufAbPvP0/6nGPiajaX2knmQRMytsWIZG",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "665e9f9fb0f2e9e7103f8d3d",
+            "username": "venu",
+            "email": "venu123@gmail.com",
+            "password": "$2a$10$oMvnNoUNXYElM5eEAykcD.VIyPJxQe8yJuaw3VBon92p7MNuoz87S",
+            "firm": [
+              {
+                "_id": "665ea01ab0f2e9e7103f8d4b",
+                "firmName": "Venu Restaurant ",
+                "area": "kurnool",
+                "category": [
+                  "veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "50% off",
+                "image": "1717477402029.jpg",
+                "vendor": [
+                  "665e9f9fb0f2e9e7103f8d3d"
+                ],
+                "products": [],
+                "__v": 0
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "665f0c1d7db9348140c44b28",
+            "username": "sanjay",
+            "email": "ramakurisanjay@gmail.com",
+            "password": "$2a$10$mp0FJFaMod5xkOTi7iuZkufQbOO6vN5WO0lt8bTT1chIv6bYMKMXu",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66606d7e4158555d5b19af87",
+            "username": "Tejareddy",
+            "email": "teja@gmail.com",
+            "password": "$2a$10$.c3B6L0LuWw3rDDYhbsik.nRMqfTWqvh8rZUoTPGibiLCFkWk1SYC",
+            "firm": [
+              {
+                "_id": "66606dc44158555d5b19af8d",
+                "firmName": "myResturant",
+                "area": "bapatla",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian",
+                  "chinese"
+                ],
+                "offer": "10% on above 175",
+                "vendor": [
+                  "66606d7e4158555d5b19af87"
+                ],
+                "products": [
+                  "66606de44158555d5b19af92"
+                ],
+                "__v": 1
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "6660a505923a0b94e0de82ab",
+            "username": "chandu",
+            "email": "chandu@gmail.com",
+            "password": "$2a$10$rE6hZXMncVy8PGE84nnF2u.CGg7MCAxjNPNLDUMJbngQRlpttSafu",
+            "firm": [
+              {
+                "_id": "6660a55d923a0b94e0de82b1",
+                "firmName": "Chandrika Biriyani",
+                "area": "Kukatpally",
+                "category": [
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "50% on orders above 199/-",
+                "image": "1717609819687.jpg",
+                "vendor": [
+                  "6660a505923a0b94e0de82ab"
+                ],
+                "products": [
+                  "6660a589923a0b94e0de82b8",
+                  "6660a5a3923a0b94e0de82bf"
+                ],
+                "__v": 2
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "6661431a72bde4a2541608db",
+            "username": "kavya",
+            "email": "kavya@gmail.com",
+            "password": "$2a$10$ppVMQltOBQPvwtLo3CNC3u/sKROJjzgBqCJtGoM.AnmJH66TmUT4y",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "666147c872bde4a2541608fa",
+            "username": "raja",
+            "email": "raja@gmail.com",
+            "password": "$2a$10$C7kGHVnPzjuyhB2kAYS.7eJm7Z3wD2j.vivNmt1Z0xwkDomjPs8xm",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "666185ef4fe2c13650d0510f",
+            "username": "ravi",
+            "email": "ravi@gmail.com",
+            "password": "$2a$10$.0XNSb77ksGlpNrAGGJQSOnEasmDjpSwypkpMG7h9VKNJJy7WNkoi",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66618f69f40a7b91c5295c1d",
+            "username": "rani",
+            "email": "rani@gmail.com",
+            "password": "$2a$10$JJtziRwYWFwrAiQX/BHhy.l6AflCocCgve/JnwvpFx3SKZzkAh1BS",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66646fc4cb05f9ff1c6ee586",
+            "username": "vamsi",
+            "email": "vamsireddykr7@gmail.com",
+            "password": "$2a$10$VOTZCRCfq56BpCyP4zlD6uRqh0DhpaBO9bt5FZyaXLTYpkO5W01Ii",
+            "firm": [],
+            "__v": 0
+          },
+          {
+            "_id": "66654f150a3f89da51c8f42b",
+            "username": "Murthy",
+            "email": "suryamurthy770@gmail.com",
+            "password": "$2a$10$c3ftupBf/TWnWQwep/j6fu08msAxziIcvX7WjUtkP6lVEF2r.Yq6S",
+            "firm": [
+              {
+                "_id": "66654f6a0a3f89da51c8f431",
+                "firmName": "Punju Restaurant",
+                "area": "Near Gandipet , Milkyway Galaxy",
+                "category": [
+                  "veg",
+                  "non-veg"
+                ],
+                "region": [
+                  "south-indian"
+                ],
+                "offer": "Offer em ledu bro",
+                "vendor": [
+                  "66654f150a3f89da51c8f42b"
+                ],
+                "products": [
+                  "66654f9e0a3f89da51c8f43a"
+                ],
+                "__v": 1
+              }
+            ],
+            "__v": 1
+          },
+          {
+            "_id": "6665f3f5450a13c5d9152fd9",
+            "username": "name",
+            "email": "email@email.com",
+            "password": "$2a$10$Gqqfihdot9oKqZwxwbGeiev6L4QdAyFASlBUChfgPhKXObGKAyURG",
+            "firm": [],
+            "__v": 0
+          }
+        ]
+      }
+]

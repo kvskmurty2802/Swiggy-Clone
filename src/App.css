@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.landingSection{
+  padding: 0 35px;
+}
+
+.NavbarSection{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 100px;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
+}
+
+.itemSection{
+  display:flex;
+  width:100%;
+  margin-top: 50px;
+}
+
+.gallery{
+  width:200px;
+  /* border: 1px solid red; */
+}
+
+.gallery img{
+ width:100%;
+}
+
+/*Chain Section*/
+
+.chainSection {
+  display: flex;
+  overflow-x: scroll;
+  position: relative;
+  height: auto;
+}
+
+.vendorBox {
+  border-radius: 10px;
+}
+
+.vendorBox img {
+  width: 350px;
+  height: 220px;
+  flex: 0 0 auto;
+  margin-right: 30px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.btnSection {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 50px;
+  right: 10px;
+  gap: 10px;
+}
+
+.btnSection button {
+  border: none;
+  background: none;
+}
+
+.btnIcons {
+  font-size: x-large;
+}
+
+
+/* firmSection */
+
+
